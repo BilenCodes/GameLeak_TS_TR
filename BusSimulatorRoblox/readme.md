@@ -1,9 +1,6 @@
 Kullanıclar/İndireckeler  burdaki herşeyi istediğiniz gibi paylaşabilir dilerseniz robloxta paylaşabilirsiniz. 
 
-Beni Banlamayacaktınız. Bu Leakları Durdurmam İçin Benimle İletişime Geçiniz :)
 
-Botlarım Hep Sunucunuzda Beni Bekliyor UwU
 
-Discord = piro#5486
 
 (Robloxtan Ban Yerseniz Sorumluluk Kabul Etmiyorum)
