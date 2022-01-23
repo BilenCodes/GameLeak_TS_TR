@@ -5,3 +5,5 @@ Discord = piro#5486
 Burdakilerin Kaldırılması İçin Oyun Geliştiricileri (Hepinizi Biliyorum) Benden Özür Dilerseniz Kaldırırm. :)
 
 'CAN AFACAN ŞAKLABAN TIRIN TIRIN TIRINININ ZEENGİN OLDUK ZEENGİN, VİCDANSIZ KAYGANA' -Sinan Kaya
+
+Küçük Bir Bİlgi Klasörlerin İçinde readme.md var ona girip leakların sürümünü / sonradan gelecekleri öğrenebilirsiniz.
